@@ -9,7 +9,7 @@ This is the first HTML, CSS, and JavaScript project developed during the "Develo
 ## Objective
 The objective of this project is to introduce basic JavaScript concepts through the creation of a MIDI and deepen the understanding of how HTML, CSS, and JS relate in web development.
 
-## Project Status
+## Project Status 
 ✔️ Completed
 
 ## Final Result
